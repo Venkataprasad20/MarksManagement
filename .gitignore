@@ -34,3 +34,7 @@ build/
 # Environment files
 .env
 application-env.properties
+
+# Ignore env config file
+src/main/resources/application-env.properties
+
