@@ -52,3 +52,18 @@ Thumbs.db
 # Logs
 ############################
 *.log
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
